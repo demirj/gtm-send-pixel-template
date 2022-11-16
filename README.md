@@ -1,0 +1,1 @@
+# gtm-send-pixel-template

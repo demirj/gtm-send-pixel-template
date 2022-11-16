@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Send Pixel",
+  "categories": ["TAG_MANAGEMENT", "ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
